@@ -1,5 +1,2 @@
-quay.io/cloud-bulldozer/perfapp:latest
-registry.access.redhat.com/rhscl/postgresql-10-rhel7:latest
-quay.io/cloud-bulldozer/curl:latest
-quay.io/cloud-bulldozer/sampleapp:latest
+quay.io/cloud-bulldozer/fedora-nc:latest
 
