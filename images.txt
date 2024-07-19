@@ -1,2 +1,2 @@
-quay.io/cloud-bulldozer/fedora-nc:latest
+gcr.io/kubebuilder/kube-rbac-proxy:v0.14.1
 
