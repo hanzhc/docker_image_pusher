@@ -1,4 +1,1 @@
-enmotech/opengauss:5.1.0
-enmotech/opengauss:5.0.1
-enmotech/opengauss:5.0.2
-enmotech/opengauss:5.0.0
+opengauss/opengauss:5.0.0
