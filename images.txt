@@ -1,1 +1,1 @@
-opengauss/opengauss:5.0.0
+moby/buildkit:buildx-stable-1
