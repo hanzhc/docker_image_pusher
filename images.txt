@@ -1,1 +1,1 @@
-grafana/grafana-oss
+mysql:8.3.0
