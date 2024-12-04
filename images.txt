@@ -1,1 +1,1 @@
-docker.io/library/alpine:latest
+golang:1.19
