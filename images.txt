@@ -1,2 +1,1 @@
-docker:20-cli
-docker:19-cli
+docker.io/library/alpine:latest
