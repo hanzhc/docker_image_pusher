@@ -1,1 +1,2 @@
-docker.io/datawire/ambassador-telepresence-manager:2.20.1
+ghcr.io/telepresenceio/tel2:2.20.1
+docker.io/curlimages/curl:8.1.1
