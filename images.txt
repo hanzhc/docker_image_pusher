@@ -1,2 +1,1 @@
-ubuntu:16.04
-openjdk:11
+alpine/git
