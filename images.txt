@@ -1,4 +1,1 @@
-archguard/archguard-frontend:latest
-archguard/archguard-backend:latest
-mysql:8.3
-influxdb:1.8
+minio/minio:latest
