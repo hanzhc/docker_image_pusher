@@ -1,1 +1,1 @@
-pgvector/pgvector:pg17
+ghcr.io/open-webui/open-webui:ollama
