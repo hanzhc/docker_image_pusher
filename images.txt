@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:ollama
+mongo:8.0.6
