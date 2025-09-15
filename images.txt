@@ -1,2 +1,2 @@
-opensearchproject/opensearch:3
-opensearchproject/opensearch-dashboards:3
+opensearchproject/opensearch:latest
+opensearchproject/opensearch-dashboards:latest
