@@ -1,1 +1,1 @@
-busybox:latest
+openjdk:11
